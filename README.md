@@ -43,7 +43,7 @@ Connect the KY-040 encoder pins to the Arduino Pro Micro as follows:
 2. Go to **Tools > Manage Libraries...**, search for **HID-Project** (by NicoHood), and install it.
 3. Select board: **Tools > Board > Arduino Micro** (or *SparkFun Pro Micro 5V/16MHz*).
 4. Select your COM port under **Tools > Port**.
-5. Flash `volume_knob.ino` to your board.
+5. Flash `simple-media-knob.ino` to your board.
 
 ---
 
