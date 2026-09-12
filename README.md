@@ -8,7 +8,7 @@ A USB HID media control knob built with an Arduino Pro Micro (ATmega32U4) and a 
 
 * **Microcontroller:** Arduino Pro Micro (ATmega32U4, 5V/16MHz)
 * **Input Device:** KY-040 Rotary Encoder Module
-* **Connection:** Micro-USB Data Cable
+* **Connection:** USB-C / Micro-USB Data Cable (depending onyour board)
 
 ---
 
