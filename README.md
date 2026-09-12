@@ -1,8 +1,4 @@
-# volume-knob
-USB Volume Knob made from an Arduino Pro Micro with a KY-040 Rotary Encoder module
-
-
-# Arduino Pro Micro Media & Volume Control Knob
+# Media Control Knob
 
 A USB HID media control knob built with an Arduino Pro Micro (ATmega32U4) and a KY-040 rotary encoder. It acts as a plug-and-play USB media device for controlling system volume, playback, track navigation, and system mute across Windows, macOS, and Linux (including Bazzite / SteamOS).
 
@@ -37,7 +33,7 @@ Connect the KY-040 encoder pins to the Arduino Pro Micro as follows:
 * **Single Press:** Play / Pause
 * **Double Press:** Next Track
 * **Triple Press:** Previous Track
-* **Press & Hold (~0.6s):** Toggle System Master Mute/Unmute
+* **Press & Hold:** System Mute/Unmute
 
 ---
 
@@ -45,7 +41,7 @@ Connect the KY-040 encoder pins to the Arduino Pro Micro as follows:
 
 1. Install the **Arduino IDE**.
 2. Go to **Tools > Manage Libraries...**, search for **HID-Project** (by NicoHood), and install it.
-3. Select board: **Tools > Board > Arduino Leonardo** (or *Arduino Micro* / *SparkFun Pro Micro 5V/16MHz*).
+3. Select board: **Tools > Board > Arduino Micro** (or *SparkFun Pro Micro 5V/16MHz*).
 4. Select your COM port under **Tools > Port**.
 5. Flash `volume_knob.ino` to your board.
 
