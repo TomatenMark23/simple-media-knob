@@ -1,6 +1,6 @@
 /*
 made by: Mark
-github: https://github.com/TomatenMark23/simple-volume-knob
+github: https://github.com/TomatenMark23/simple-media-knob
 */
 
 #include <HID-Project.h>
