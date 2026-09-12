@@ -1,17 +1,8 @@
-/*  Hardware used:
-    Board: 
-      Arduino Pro Micro
+/*
+made by: Mark
+github: https://github.com/markoderso/volume-knob/
 
-    Rotary Encoder: 
-      KY-040
-      
-    pin layout:
-     KY-040 - Arduino
-        CLK - Pin 2
-        DT  - Pin 3
-        SW  - Pin 4
-        +   - VCC
-        GND - GND
+AI disclaimer: Gemini was used in this project.
 */
 
 #include <HID-Project.h>
