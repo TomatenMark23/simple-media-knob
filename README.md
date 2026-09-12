@@ -50,3 +50,10 @@ Connect the KY-040 encoder pins to the Arduino Pro Micro as follows:
 ## 🐧 Linux / Bazzite Compatibility Note
 
 This project uses both `BootKeyboard` and `Consumer` HID initializations to ensure Linux distributions (including SteamOS/Bazzite) properly attach input event handlers (`/dev/input/event*`) upon boot.
+
+---
+
+## 🧰 3D Printed Enclosure
+
+There are no enclosures yet because I didn't deign one yet.
+.stl files will be added further down the line.
