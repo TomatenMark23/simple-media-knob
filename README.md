@@ -1,4 +1,4 @@
-# Media Control Knob
+# simple Media Knob
 
 A USB HID media control knob built with an Arduino Pro Micro (ATmega32U4) and a KY-040 rotary encoder. It acts as a plug-and-play USB media device for controlling system volume, playback, track navigation, and system mute across Windows, macOS, and Linux (including Bazzite / SteamOS).
 
