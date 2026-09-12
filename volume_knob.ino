@@ -1,8 +1,6 @@
 /*
 made by: Mark
-github: https://github.com/markoderso/volume-knob/
-
-AI disclaimer: Gemini was used in this project.
+github: https://github.com/TomatenMark23/simple-volume-knob
 */
 
 #include <HID-Project.h>
@@ -32,7 +30,6 @@ void setup() {
 
   lastCLKState = digitalRead(pinCLK);
 
-  // Initialize both interfaces so Linux registers the full HID device
   BootKeyboard.begin();
   Consumer.begin();
 }
