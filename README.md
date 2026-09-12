@@ -55,5 +55,5 @@ This project uses both `BootKeyboard` and `Consumer` HID initializations to ensu
 
 ## 🧰 3D Printed Enclosure
 
-There are no enclosures yet because I didn't deign one yet.
+There are no enclosures yet because I didn't have the time to design one yet.
 .stl files will be added further down the line.
